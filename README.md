@@ -4,7 +4,6 @@ A set of template icons for more quickly making third-party application icons wi
 
 *These templates and thier instructions where made and intended for use on [elementary OS](https://elementary.io/). Although they might (and in theory, should) work elsewhere I have not tested and don't recommend it.*
 
----
 
 ## Installation
 
@@ -14,7 +13,6 @@ Cut/Copy/Paste the `Icons` folder into `~/Templates`, where `~` is your home fol
 
 If you want to get rid of them just delete the `Icons` folder out of `~/Templates` and you're done.
 
----
 
 ## Guidelines
 

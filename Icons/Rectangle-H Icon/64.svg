@@ -28,16 +28,20 @@
      id="namedview40"
      showgrid="true"
      inkscape:zoom="8"
-     inkscape:cx="31.29157"
-     inkscape:cy="26.618531"
+     inkscape:cx="34.566312"
+     inkscape:cy="22.357888"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2453">
+     inkscape:current-layer="svg2453"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     borderlayer="true">
     <inkscape:grid
        type="xygrid"
        id="grid4176"
-       empspacing="4" />
+       empspacing="4"
+       enabled="true" />
     <inkscape:grid
        type="xygrid"
        id="grid4178"
@@ -47,7 +51,8 @@
        opacity="0.1254902"
        empcolor="#3fffff"
        empopacity="0.1372549"
-       empspacing="2" />
+       empspacing="2"
+       enabled="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata35">
@@ -150,11 +155,11 @@
        xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3-3-6-4-8-8-8-5"
        id="radialGradient3136"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,11.015167,-16.975815,0,202.28727,-88.992668)"
-       cx="7.1183534"
-       cy="9.9571075"
-       fx="7.1183534"
-       fy="9.9571075"
+       gradientTransform="matrix(0,10.304933,-18.623921,0,218.8197,-83.936968)"
+       cx="7.1183529"
+       cy="10.031169"
+       fx="7.1183529"
+       fy="10.031169"
        r="12.671875" />
     <linearGradient
        id="linearGradient3680-6-6-6-3-7-1-8">
@@ -214,7 +219,7 @@
        id="path2883-6"
        d="m 59.5,56.000216 c 0,0 0,4.9997 0,4.9997 1.654592,0.01 4,-1.1202 4,-2.5002 0,-1.38 -1.846401,-2.4995 -4,-2.4995 z" />
     <rect
-       style="opacity:0.9;color:#000000;fill:url(#radialGradient3136);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.9;color:#000000;fill:url(#radialGradient3136);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5505-21-3-8-5-2"
        y="11.499998"
        x="2.5"

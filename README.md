@@ -2,6 +2,8 @@
 
 A set of template icons for more quickly making third-party application icons with standard shapes that fit with the [elementary HIG](https://elementary.io/docs/human-interface-guidelines#iconography).
 
+![Template Preview](./readme-files/PNG/preview.png)
+
 *These templates and thier instructions where made and intended for use on [elementary OS](https://elementary.io/). Although they might (and in theory, should) work elsewhere I have not tested and don't recommend it.*
 
 

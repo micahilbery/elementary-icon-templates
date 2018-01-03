@@ -30,9 +30,9 @@ There is a right and wrong way to do just about everything. I want this project 
     | :---:                                                      | :---:                                                          |
     | ![Boring Icon](./readme-files/PNG/boring_icon.png)         | ![Unique Icon](./readme-files/PNG/unique_icon.png)             |
 
-* Don't just slap text or a glyph on these icons and call it done.
+* Don't just slap text or a glyph on these icons and call it done. Glyphs are fine but they need more love than a copy/paste.
 
-    | Don't do this                                        | Instead of this                                                  | Or this                                                  |
+    | Don't do this                                        | Do this                                                  | Or this                                                  |
     | :---:                                                | :---:                                                            | :---:                                                    |
     | ![Bad Icon](./readme-files/PNG/bad_icon.png)         | ![Better Icon 1](./readme-files/PNG/better_icon_1.png)           | ![Better Icon 2](./readme-files/PNG/better_icon_2.png)   |
 

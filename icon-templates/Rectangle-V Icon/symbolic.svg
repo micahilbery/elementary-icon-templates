@@ -12,7 +12,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="symbolic.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,40 +36,39 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="32"
-     inkscape:cx="3.4401867"
-     inkscape:cy="6.7228129"
+     inkscape:zoom="45.254834"
+     inkscape:cx="17.127219"
+     inkscape:cy="4.9821507"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8">
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid821"
-       empspacing="4" />
+       empspacing="4"
+       visible="true" />
     <inkscape:grid
        type="xygrid"
-       id="grid823"
-       empspacing="2"
-       color="#ffef3f"
-       opacity="0.2745098"
-       empcolor="#ffef3f"
-       empopacity="0.2745098"
+       id="grid866"
        spacingy="0.5"
        spacingx="0.5"
+       empspacing="2"
        dotted="true" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect825"
-     width="14"
-     height="16"
-     x="1"
-     y="0"
-     rx="1.5"
-     ry="1.5" />
+     style="opacity:1;fill:#666666;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-opacity:1"
+     id="rect832"
+     width="12"
+     height="14"
+     x="2"
+     y="1"
+     rx="2"
+     ry="2" />
 </svg>

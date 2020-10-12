@@ -13,7 +13,7 @@
    width="16"
    version="1.1"
    sodipodi:docname="16.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,8 +23,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
      id="namedview33"
      showgrid="true"
      inkscape:zoom="32"
@@ -33,22 +33,19 @@
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4372">
+     inkscape:current-layer="svg4372"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
-       id="grid877"
+       id="grid854"
        empspacing="4" />
     <inkscape:grid
        type="xygrid"
-       id="grid879"
-       spacingx="0.5"
-       spacingy="0.5"
+       id="grid856"
        empspacing="2"
-       dotted="true"
-       color="#ffef3f"
-       opacity="0.2745098"
-       empcolor="#ffef3f"
-       empopacity="0.2745098" />
+       spacingy="0.5"
+       spacingx="0.5"
+       dotted="true" />
   </sodipodi:namedview>
   <defs
      id="defs4374">
@@ -165,24 +162,26 @@
   <rect
      width="15"
      height="13"
-     rx="1"
-     ry="1"
+     rx="2"
+     ry="2"
      x="0.5"
      y="1.5"
      id="rect5505-21-2"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient869);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;enable-background:accumulate" />
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient869);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
   <rect
      width="13"
      height="11"
      x="1.5"
      y="2.4999986"
      id="rect6741-0-3-5"
-     style="opacity:0.35;fill:none;stroke:url(#linearGradient4224);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-variant-east_asian:normal;vector-effect:none;fill-opacity:1" />
+     style="opacity:0.35;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient4224);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     rx="1"
+     ry="1" />
   <rect
      width="15"
      height="13.000003"
-     rx="1"
-     ry="1"
+     rx="2"
+     ry="2"
      x="0.5"
      y="1.4999986"
      id="rect5505-21-2-8"

@@ -13,7 +13,7 @@
    width="24"
    version="1.1"
    sodipodi:docname="24.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,8 +23,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
      id="namedview45"
      showgrid="true"
      inkscape:zoom="32"
@@ -33,22 +33,19 @@
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6436">
+     inkscape:current-layer="svg6436"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
-       id="grid896"
+       id="grid864"
        empspacing="4" />
     <inkscape:grid
        type="xygrid"
-       id="grid898"
+       id="grid866"
        empspacing="2"
-       dotted="true"
        spacingy="0.5"
        spacingx="0.5"
-       color="#ffef3f"
-       opacity="0.2745098"
-       empcolor="#ffef3f"
-       empopacity="0.2745098" />
+       dotted="true" />
   </sodipodi:namedview>
   <defs
      id="defs6438">
@@ -226,17 +223,17 @@
        style="opacity:1;fill:url(#linearGradient4362-5);fill-opacity:1" />
   </g>
   <rect
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient888);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient888);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      id="rect4219"
      width="23"
      height="19"
      x="0.5"
      y="2.5"
-     rx="1"
-     ry="1" />
+     rx="2"
+     ry="2" />
   <rect
-     ry="1"
-     rx="1"
+     ry="2"
+     rx="2"
      y="2.5"
      x="0.5"
      height="19"
@@ -244,12 +241,12 @@
      id="rect4217"
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0e141f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
   <rect
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.35;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5397);stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;font-variant-east_asian:normal;vector-effect:none"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.35;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5397);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      id="rect4234"
      width="21"
      height="17"
      x="1.5"
      y="3.5"
-     rx="0"
-     ry="0" />
+     rx="1"
+     ry="1" />
 </svg>

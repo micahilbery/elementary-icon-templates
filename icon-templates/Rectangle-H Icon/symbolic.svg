@@ -12,7 +12,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="symbolic.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,8 +36,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
      id="namedview10"
      showgrid="true"
      inkscape:zoom="45.254834"
@@ -46,7 +46,8 @@
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8">
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid821"
@@ -55,9 +56,9 @@
        type="xygrid"
        id="grid823"
        empspacing="2"
-       color="#ffef3f"
+       color="#513fff"
        opacity="0.2745098"
-       empcolor="#ffef3f"
+       empcolor="#593fff"
        empopacity="0.2745098"
        spacingy="0.5"
        spacingx="0.5"
@@ -70,7 +71,7 @@
      height="16"
      x="1"
      y="-16"
-     rx="1.5"
-     ry="1.5"
+     rx="2"
+     ry="2"
      transform="rotate(90)" />
 </svg>

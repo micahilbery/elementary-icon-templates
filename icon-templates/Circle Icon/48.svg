@@ -14,7 +14,7 @@
    height="48"
    id="svg4460"
    sodipodi:docname="48.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,8 +24,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
      id="namedview88"
      showgrid="true"
      inkscape:zoom="16"
@@ -34,21 +34,18 @@
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4460">
+     inkscape:current-layer="svg4460"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
-       id="grid898"
+       id="grid902"
        empspacing="4" />
     <inkscape:grid
        type="xygrid"
-       id="grid900"
+       id="grid904"
        empspacing="2"
        spacingy="0.5"
        spacingx="0.5"
-       color="#ffef3f"
-       opacity="0.2745098"
-       empcolor="#ffef3f"
-       empopacity="0.2745098"
        dotted="true" />
   </sodipodi:namedview>
   <defs
